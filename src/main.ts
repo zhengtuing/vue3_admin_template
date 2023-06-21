@@ -5,8 +5,7 @@ import App from "./App.vue";
 createApp(App).mount("#app");
 
 const fun = () => {
-  console.log(
-      'i love you ');
+  console.log("i love you ");
 };
 
 fun();
